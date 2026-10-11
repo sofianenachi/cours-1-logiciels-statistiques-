@@ -1,1 +1,1 @@
-# cours-1-logiciels-statistiques-
+# cours-2025 & 2026-logiciels-statistiques-
