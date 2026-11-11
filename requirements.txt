@@ -2,3 +2,6 @@ streamlit
 plotly
 numpy
 pandas
+scipy
+statsmodels>=0.14
+matplotlib
